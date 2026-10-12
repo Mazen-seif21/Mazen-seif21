@@ -26,15 +26,17 @@ Let's collaborate and create something extraordinary together!
 ![](https://github-readme-stats.vercel.app/api?username=Mazen-seif21&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Mazen-seif21&theme=dark&hide_border=false)
 
+<!-- LANGS:START -->
 **💻 Languages (all my repos, incl. private):**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-34.6%25-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-27.8%25-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-27.8%25-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-4.5%25-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-4.5%25-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-1.8%25-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1.7%25-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1.7%25-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-1.4%25-0660A4.svg?style=for-the-badge&logo=cmake&logoColor=white)
+<!-- LANGS:END -->
 
 ---
 [![](https://komarev.com/ghpvc/?username=Mazen-seif21&icon=0&color=0)](https://visitcount.itsvg.in)
