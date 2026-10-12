@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 
 🔭 I’m currently working on **Tabibi** — a full-stack product I'm building from scratch, plus modern web apps with React and PHP.
 👯 I’m looking to collaborate on open-source projects involving React, PHP, or Flutter.
@@ -7,14 +7,14 @@
 💬 Ask me about **Full-Stack Web Development (React • PHP • Flutter)** and building products from Gaza.
 ⚡ Fun fact: Everything I've shipped so far started in Gaza — and there's a lot more coming!
 
-## 🌐 Socials:
+#Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mazen.sa21/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/Mazen_sa21)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazen-saif-b28088272)
 [![Mostaql](https://img.shields.io/badge/Mostaql-%23FF6B00.svg?logo=freelancer&logoColor=white)](https://mostaql.com/u/Mazen_seif21)
 
-# 💻 Tech Stack:
+#Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
