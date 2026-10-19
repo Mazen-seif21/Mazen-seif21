@@ -29,9 +29,9 @@ Let's collaborate and create something extraordinary together!
 <!-- LANGS:START -->
 **💻 Languages (all my repos, incl. private):**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-34.6%25-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-27.8%25-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-27.8%25-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-35.3%25-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/C%23-27.6%25-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-27.4%25-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-4.5%25-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-1.8%25-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1.7%25-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
